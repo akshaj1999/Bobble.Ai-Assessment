@@ -1,3 +1,3 @@
 # Bobble.Ai-Assessment
 
-Every foldercontains it own readme and commands how to run the project and programs
+Every folder contains it own readme and commands how to run the project and programs
