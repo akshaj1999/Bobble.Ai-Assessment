@@ -1,8 +1,8 @@
 #Frontend Assesment
 
-To install the node modules
-npm install<br/>
+To install the node modules<br/>
+Command:   npm install<br/>
 <br/>
 and to run the code<br/>
 <br/>
-npm start
+Command:  npm start
