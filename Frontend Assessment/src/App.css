@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.container{
+  padding:20px;
+}
+
+.x{
+  margin: auto;
+  margin-top:20px;
+  box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  
+}
+
+.y{
+  height: 40px;
+  width: 85%;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding:20px;
+}
+.fb{
+   height: 45px;
+   margin-left: 20px;
+   border: 0px solid grey;
+   background-color: white;
+   border-radius: 2px;
+   color: gray;
+   font-size: 14px;
+   width: 47%;
+   padding:5px;
+   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.3);
+
+}
